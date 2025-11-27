@@ -1,6 +1,12 @@
 # MAGI Decision System
 
+![MAGI System](./src/assets/mgi.png)
+
 A web-based decision support system inspired by the MAGI supercomputers from Neon Genesis Evangelion. This system uses three different AI providers (Claude, OpenAI, and Gemini) to analyze requests and reach consensus decisions.
+
+## 🌐 Live Demo
+
+**[https://paulhuang1102.github.io/magi/](https://paulhuang1102.github.io/magi/)**
 
 ## Features
 
@@ -173,11 +179,7 @@ npm run build
 npm run preview
 ```
 
-### Type Checking
 
-```bash
-npm run type-check
-```
 
 ## Future Enhancements
 
